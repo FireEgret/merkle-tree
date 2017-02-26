@@ -1,4 +1,4 @@
 merkle-tree
 ===========
 
-C implementation for Merkle-Tree use md5 as hash function
+C++ implementation for Merkle-Tree use md5 as hash function
